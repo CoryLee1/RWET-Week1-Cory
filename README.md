@@ -21,3 +21,32 @@ Chen, Yi-Pei & Yen, An-Zi & Huang, Hen-Hsen & Nakayama, Hideki & Chen, Hsin-Hsi.
 2.set fixed sentences
 3.set pattern of people's activities
 4.combine all of them together
+
+###Results
+Let's ----- peek at the human hive, ----- ----- see ----- what's ----- keeping them alive!
+Oliver tidying ----- up ----- ----- the restaurant -----
+Under the lanterns ----- of ----- Pine Plaza -----
+She talk with ----- ----- -----
+But this one ----- tell
+Oh~ What a ----- ----- boring ----- birds' ----- life！ -----
+
+----- ----- ----- Let's ----- ----- peek at the ----- ----- human hive, ----- ----- ----- see what's ----- keeping them alive!
+dealers tidying up ----- ----- there ----- -----
+At ----- ----- ----- the crossroads of Meadow Lane Market -----
+They ----- ----- tell
+But this one have -----
+Oh~ ----- What a boring ----- birds' ----- life！
+
+----- ----- Let's ----- ----- peek at the ----- human ----- hive, see what's ----- keeping them ----- alive! -----
+dealers tidying up ----- a roast duck -----
+----- Near the old well ----- ----- of ----- ----- Cedar Clinic -----
+He wake up ----- -----
+But this one ----- tell -----
+----- Oh~ ----- ----- What ----- a boring birds' life！
+
+----- ----- Let's peek at the human hive, see what's keeping them alive!
+----- Oliver tidying up 15 ----- ----- candidates
+In the ----- shadow of Elm Avenue Bakery
+----- They talk ----- with
+----- ----- But this ----- one order
+----- ----- Oh~ ----- What a boring ----- birds' life！

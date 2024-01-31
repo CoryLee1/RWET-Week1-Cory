@@ -1,4 +1,4 @@
-![INTRODUCTION]("/img/intro.png")
+![INTRODUCTION]("./img/intro.png")
 Link of Doc：https://www.notion.so/corylinyu/week1-06f41e509d094dd7898b503c5e5fe36a?pvs=12
 ###Brids Perched on the wire--"Oh~ What a boring bird life！"
 """

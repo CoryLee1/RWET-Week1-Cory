@@ -22,10 +22,10 @@ Chen, Yi-Pei & Yen, An-Zi & Huang, Hen-Hsen & Nakayama, Hideki & Chen, Hsin-Hsi.
 3.set pattern of people's activities
 4.combine all of them together
 
-###Results
-Let's ----- peek at the human hive, ----- ----- see ----- what's ----- keeping them alive!
-Oliver tidying ----- up ----- ----- the restaurant -----
-Under the lanterns ----- of ----- Pine Plaza -----
+###Results  
+Let's ----- peek at the human hive, ----- ----- see ----- what's ----- keeping them alive!  
+Oliver tidying ----- up ----- ----- the restaurant -----  
+Under the lanterns ----- of ----- Pine Plaza -----  
 She talk with ----- ----- -----
 But this one ----- tell
 Oh~ What a ----- ----- boring ----- birds' ----- life！ -----

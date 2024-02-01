@@ -57,3 +57,5 @@ In the ----- shadow of Elm Avenue Bakery
 ----- They talk ----- with  
 ----- ----- But this ----- one order  
 ----- ----- Oh~ ----- What a boring ----- birds' life！  
+![PoemExample](https://github.com/CoryLee1/RWET-Week1-Cory/blob/main/img/Poem_Example-01.png)
+![Vis](https://github.com/CoryLee1/RWET-Week1-Cory/blob/main/img/reference-pixelicious.png)
